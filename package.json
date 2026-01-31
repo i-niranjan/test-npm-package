@@ -17,6 +17,9 @@
   "author": "Niranjan Chaudhari",
   "type": "module",
   "main": "index.js",
+  "publishConfig": {
+    "access": "public"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   }
