@@ -1,0 +1,23 @@
+{
+  "name": "@i-niranjan/test-pkg",
+  "version": "1.0.0",
+  "description": "Its a Peak !",
+  "keywords": [
+    "Niranjanjan"
+  ],
+  "homepage": "https://github.com/i-niranjan/test-npm-package#readme",
+  "bugs": {
+    "url": "https://github.com/i-niranjan/test-npm-package/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/i-niranjan/test-npm-package.git"
+  },
+  "license": "ISC",
+  "author": "Niranjan Chaudhari",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
